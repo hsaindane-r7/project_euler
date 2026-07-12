@@ -1,3 +1,5 @@
+// Multiples of 3 or 5
+
 package main
 
 import "fmt"

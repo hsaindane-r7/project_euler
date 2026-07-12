@@ -1,3 +1,5 @@
+// Largest Product in a Series
+
 package main
 
 import (
